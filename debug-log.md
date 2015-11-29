@@ -9,9 +9,18 @@
 This debug-log is not as relevant to me this week.
 
 ENTRY 1 (Nov 16): 
-I expected that arrows would be limited in their range of interactive capabilities. A mouse hovering would cause movement in a single direction. A mous clicking... Arrows are angular shapes that allow the screen to be taken over. I mean to say that a background with arrows would contain more shapes than a background with rectangles of the same size. However, though I was planning to move on in my experimentations with squares and trianges, I then decided to switch to circular shapes. I believe they have an inherent appeal to users, especially if they animate, and I will consider transforming them from circles to squares...
+I expected that arrows would be limited in their range of interactive capabilities. A mouse hovering would cause movement in a single direction. A mouse clicking... Arrows are angular shapes that allow the screen to be taken over. I mean to say that a background with arrows would contain more shapes than a background with rectangles of the same size. However, though I was planning to move on in my experimentations with squares and trianges, I then decided to switch to circular shapes. I believe they have an inherent appeal to users, especially if they animate, and I will consider transforming them from circles to squares...
 
 ------------------------------
 
-ENTRY 2 (Nov ?):
-x
+ENTRY 2 (Nov 25):
+I decided to stick with the arrows. I thought the program might be able to handle each individual arrow as a vector, but I ended up using strips of arrow shapes. I guess Framer.js couldn't handle so much code. 
+
+
+ENTRY 3 (Nov 25):
+Framer works differently from Processing or Arduino. In the code, the indents make a huge difference. I spent some time trying to debug my code when all it was freaking out over was an extra or absent indent.
+
+
+ENTRY 4 (Nov 25):
+The coding language is a bit confusing. I think it's restricting my project. 
+On another note, I've decided to create another pattern besides the arrows.
