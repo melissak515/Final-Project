@@ -24,3 +24,7 @@ Framer works differently from Processing or Arduino. In the code, the indents ma
 ENTRY 4 (Nov 25):
 The coding language is a bit confusing. I think it's restricting my project. 
 On another note, I've decided to create another pattern besides the arrows.
+
+
+ENTRY 5 (Dec 6):
+Framer doesn't recognize a layer named "orange 2." It sees "orange" and "2" as separate beings. My code refused to work until I changed the layer named to "orange2."
