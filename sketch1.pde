@@ -2,6 +2,10 @@
 # Programming & Electronics FINAL, JD
 # Fall Semester 2nd Year 2015
 
+#LINKS
+#sketch1 w/ iPad background: http://share.framerjs.com/7mzy8k5lc7wj/
+#w/out iPad background: http://share.framerjs.com/s0xtzi3wy4fe/
+
 artboard = new Layer
 	width:2000
 	height:1500
