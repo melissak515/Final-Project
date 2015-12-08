@@ -25,6 +25,27 @@ ENTRY 4 (Nov 25):
 The coding language is a bit confusing. I think it's restricting my project. 
 On another note, I've decided to create another pattern besides the arrows.
 
+------------------------------
 
-ENTRY 5 (Dec 6):
+ENTRY 5 (Nov 30):
+There are some default properties on Framer that I'm not familiar with. Because they're default, sometimes I can't tell if the animations I put in manually are working or not. 
+
+ENTRY 6 (Nov 30):
+I've chosen squares as the shape for my second animation, but two different shapes of them.
+
+ENTRY 7 (Dec 4):
+When I tried to connect the pieces together, they didn't fit perfectly. I was also using a white background, so it didn't occur to me that I was missing some white vectors. 
+
+------------------------------
+
+ENTRY 8 (Dec 6):
 Framer doesn't recognize a layer named "orange 2." It sees "orange" and "2" as separate beings. My code refused to work until I changed the layer named to "orange2."
+
+ENTRY 9 (Dec 6):
+I still haven't figured out when indents are important and when they're not. Luckily, Framer has a function that points out what the problem is.
+
+ENTRY 10 (Dec 6):
+Framer doesn't have if/else/while/etc. statements like Processing does. Trying to get around that is somewhat taxing. In some ways the jargon is more intuitive, but there are some functions that are not covered in tutorials...
+
+ENTRY 11 (Dec 7):
+My images are jaggedy in this second piece. It's messing with the accuracy of the color changes, but there's not much I can do about it.
